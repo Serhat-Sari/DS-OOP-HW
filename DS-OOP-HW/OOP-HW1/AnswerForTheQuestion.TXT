@@ -1,0 +1,8 @@
+Serhat Sarı 150200068
+
+Firstly, evaluate_student method is called by the university_array[3] object with student object as an argument. 
+Secondly, increase_noa() method is called by the student object with no argument inside. Then to calculate the value of the total, get_gpa(),get_gre(),get_toefl()
+methods are called by the student object with no argument in any of them. Afterwards, get_name() method is called by the student object with no argument, no matter what
+the result of the total value is.
+
+Lastly destructor is called by the delete command, to delete the student 4.
